@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+
+#peak img {
+width: 5%;
+height: 5%;
+}
+
+.text {
+    font-size: 45px;
+    color: white;
+    font-family: 'Michroma', sans-serif;
+}
